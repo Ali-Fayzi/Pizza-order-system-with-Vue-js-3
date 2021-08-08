@@ -1,36 +1,8 @@
 # pizza-order-system
 ## Application 
-
+  ### Main Page
 ![Main Page](https://github.com/Ali-Fayzi/Pizza-order-system-with-Vue-js-3/blob/main/src/assets/main.png?raw=true)
-
+  ### Basket Page
 ![Basket Page](https://github.com/Ali-Fayzi/Pizza-order-system-with-Vue-js-3/blob/main/src/assets/basket.png?raw=true)
 
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
-# Pizza-order-system-with-Vue-js-3
+Drag & Drop
